@@ -62,34 +62,49 @@ Cada carpeta corresponde a un **challenge práctico**, con código fuente, noteb
 ## 📂 Estructura del Repositorio
 
 ```
-one-alura-data-science/
-│
-├── 01-challenge-amigo-secreto/
-│   ├── src/
-│   │   └── amigo_secreto.js
-│   ├── README.md
-│   └── resultados/
-│       └── ejemplo_output.txt
-│
-├── 02-challenge-telecom-churn-p1/
-│   ├── notebooks/
-│   │   └── analisis_exploratorio_modelado.ipynb
-│   ├── data/
-│   ├── src/
-│   │   └── funciones_utiles.py
-│   ├── README.md
-│   └── dashboards/
-│       └── dashboard_powerbi.pbix
-│
-├── 03-challenge-telecom-churn-p2/
-│   ├── notebooks/
-│   │   └── optimizacion_modelo_storytelling.ipynb
-│   ├── README.md
-│   └── presentacion/
-│       └── resumen_decisiones.pdf
-│
-└── resources/
+📁 one-alura-data-science/
+├── 📝 LICENSE
+├── 📝 README.md
+├── 📁 01-challenge-amigo-secreto/
+│   ├── 📁 src/
+│   │   ├── 📝 amigo_secreto.js
+│   │   └── 📁 assets/
+│   │       ├── 🖼️ amigo-secreto.png
+│   │       └── 🖼️ play_circle_outline.png
+│   ├── 📁 public/
+│   │   ├── 🌐 index.html
+│   │   └── 🎨 style.css
+│   └── 📝 README.md
+├── 📁 02-challenge-telecom-churn-p1/
+│   ├── 📁 data/
+│   │   ├── 📄 TelecomX_Data.json
+│   │   └── 📄 TelecomX_Data_normalizado.csv
+│   ├── 📁 notebooks/
+│   │   └── 📓 analisis_exploratorio_modelado.ipynb
+│   ├── 📁 src/
+│   │   └── 📝 funciones_utiles.py
+│   ├── 📁 results/
+│   │   ├── 📷 boxplot_churn.png
+│   │   └── 📷 grafico_churn.png
+│   └── 📝 README.md
+├── 📁 03-challenge-telecom-churn-p2/
+│   ├── 📁 data/
+│   │   └── 📄 df.csv
+│   ├── 📁 notebooks/
+│   │   └── 📓 optimizacion_modelo_storytelling.ipynb
+│   └── 📝 README.md
+
 ```
+
+### 🔹 Detalles:
+- 📁 → Carpeta  
+- 📝 → Archivos de texto, README o scripts  
+- 🌐 → HTML  
+- 🎨 → CSS  
+- 📓 → Notebook Jupyter  
+- 📄 → Dataset (CSV/JSON)  
+- 📷 → Gráficos e imágenes  
+- 🖼️ → Imágenes dentro de `assets`  
 
 ---
 

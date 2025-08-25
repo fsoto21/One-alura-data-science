@@ -124,4 +124,4 @@ Los proyectos combinan **fundamentos teóricos y aplicación práctica**, genera
 ---
 
 ✍️ Autor: **Fausto Soto**  
-🔗 LinkedIn: [tu-linkedin-aqui] | Portafolio/CV: [tu-enlace-aqui]
+🔗 - LinkedIn: [Fausto Soto](https://www.linkedin.com/in/fausto-soto/) | Portafolio/CV: [tu-enlace-aqui]
